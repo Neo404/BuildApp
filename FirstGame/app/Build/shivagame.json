@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "shivagame",
+"dataUrl": "shivagame.data.unityweb",
+"asmCodeUrl": "shivagame.asm.code.unityweb",
+"asmMemoryUrl": "shivagame.asm.memory.unityweb",
+"asmFrameworkUrl": "shivagame.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
